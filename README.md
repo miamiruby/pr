@@ -18,6 +18,10 @@ Other tools do this better... we just like KISS and Simple
 
 ## Installation ##
 
+composer require miamiruby/pr
+
+## Usage ##
+
 Example:
 
 ```php
