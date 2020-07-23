@@ -2,6 +2,7 @@
     "name": "miamiruby/pr",
     "description": "Print Array nicely",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Paul Kruger",
