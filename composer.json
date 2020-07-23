@@ -6,8 +6,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Paul Kruger",
-            "email": "paul@miamiphp.org"
+          "name": "Leo Arce",
+          "email": "leo.a@htpsi.com"
+        },
+        {
+          "name": "Paul Kruger",
+          "email": "paul@miamiphp.org"
         }
     ],
     "require": {},
