@@ -8,5 +8,8 @@
             "email": "paul@miamiphp.org"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [ "PR.php" ]
+    }
 }
