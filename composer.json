@@ -1,0 +1,12 @@
+{
+    "name": "miamiphp/pr",
+    "description": "Print Array nicely",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Paul Kruger",
+            "email": "paul@miamiphp.org"
+        }
+    ],
+    "require": {}
+}
