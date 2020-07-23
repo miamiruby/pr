@@ -7,5 +7,6 @@ if (!function_exists('pr')) {
         print_r($var);
         echo '</pre>';
     }
+}
 
 ?>
